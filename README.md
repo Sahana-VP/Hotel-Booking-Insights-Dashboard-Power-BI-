@@ -7,54 +7,54 @@ This Power BI project analyzes hotel booking data to uncover customer booking pa
 
 Sample data includes:
 
-Booking Date
+  Booking Date
 
-Stay Date
+  Stay Date
 
-Booking Channel
+  Booking Channel
 
-Loyalty Level
+  Loyalty Level
 
-Number of Nights
+  Number of Nights
 
-Room Rate
+  Room Rate
 
-Booking Status
+  Booking Status
 
 
 📊 Key Insights
 
-Total Bookings and Revenue
+  Total Bookings and Revenue
 
-Bookings by Channel and Loyalty Level
+  Bookings by Channel and Loyalty Level
 
-Lead Time Segments 
+  Lead Time Segments 
 
-Weekend vs. Weekday booking trends
+  Weekend vs. Weekday booking trends
 
-Revenue by Segment and Channel
+  Revenue by Segment and Channel
 
-Highlighted weekends in bar charts
+  Highlighted weekends in bar charts
 
 
 🛠️ Features
 
-DAX formulas for lead time and revenue
+  DAX formulas for lead time and revenue
 
-Conditional formatting for weekend highlighting
+  Conditional formatting for weekend highlighting
 
-Interactive filters and slicers
+  Interactive filters and slicers
 
-Lead time segmentation
+  Lead time segmentation
 
 
 📂 Files Included
 
-hotel_booking_raw_data.xlsx – Raw dataset 
+  hotel_booking_raw_data.xlsx – Raw dataset 
 
-Hotel Booking Analysis.pbix – Power BI file
+  Hotel Booking Analysis.pbix – Power BI file
 
-Hotel Booking Dashboard.png – Report screenshot
+  Hotel Booking Dashboard.png – Report screenshot
 
 
 📷 Preview

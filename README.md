@@ -2,6 +2,7 @@
 
 This Power BI project analyzes hotel booking data to uncover customer booking patterns, revenue performance, and planning behaviors. It uses key metrics like lead time, booking channels, and loyalty levels to help hotels optimize occupancy, marketing, and pricing strategies.
 
+
 📁 Dataset
 
 Sample data includes:
@@ -35,6 +36,7 @@ Revenue by Segment and Channel
 
 Highlighted weekends in bar charts
 
+
 🛠️ Features
 
 DAX formulas for lead time and revenue
@@ -44,6 +46,7 @@ Conditional formatting for weekend highlighting
 Interactive filters and slicers
 
 Lead time segmentation
+
 
 📂 Files Included
 
@@ -58,12 +61,13 @@ Hotel Booking Dashboard.png – Report screenshot
 
 ![Hotel Booking Dashboard](https://github.com/user-attachments/assets/0e748cd3-b488-440e-8a1a-1940897e77fb)
 
+
 ✅ How to Use
 
-Download the .pbix file
+1. Download the .pbix file
 
-Open in Power BI Desktop
+2. Open in Power BI Desktop
 
-Load the dataset
+3. Load the dataset
 
-Explore the insights
+4. Explore the insights
